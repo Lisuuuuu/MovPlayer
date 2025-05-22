@@ -18,10 +18,13 @@ export default defineConfig({
   },
   globalCss: {
     body: {
-      margin: 0,
-      padding: 0,
-      backgroundColor: '#1a1a1a',
-      color: 'white'
+      backgroundColor: "#1a1a1a",
+      color: "#fff",
+      // fontFamily: "Inter, sans-serif",
+      backgroundImage: 'radial-gradient(#383838 2px, transparent 2px)',
+      backgroundSize: ' 32px 32px',
+
+
     },
   },
 

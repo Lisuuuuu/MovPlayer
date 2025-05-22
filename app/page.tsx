@@ -12,9 +12,8 @@ export default function Main() {
       </div>
     <div>
 
-      <SearchBar></SearchBar>
     </div>
-
+    
 
     </div>
   )
