@@ -16,7 +16,7 @@ export const SearchBarStyles = sva({
             padding: '0 20px',
             boxShadow: '0 8px 32px rgba(0, 0, 0, 0.3)',
             backdropFilter: 'blur(10px)',
-            transition: 'all 0.2s ease-out',
+            transition: 'all 1s ease-out',
             _hover: {
                 border: '1px solid #555',
                 transform: 'translateY(-1px)',
